@@ -127,15 +127,12 @@ I was nervous signing up for my first hackathon, but absolutely loved it, and ca
 
 - - -
 
-### Stats
+<!-- ### Stats
  
-![Dan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danmorriss)
+![Dan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danmorriss) -->
 
 <!-- ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danmorriss&theme=default) -->
 
 <!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=danmorriss&theme=default) -->
 
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=danmorriss&margin-w=60&no-frame=true) -->
- 
-
-- - - 
