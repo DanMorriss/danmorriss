@@ -125,7 +125,7 @@ I was nervous signing up for my first hackathon, but absolutely loved it, and ca
 
 </details>
 
-- - -
+<!-- - - - -->
 
 <!-- ### Stats
  
