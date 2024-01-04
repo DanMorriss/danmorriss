@@ -115,7 +115,7 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 I was nervous signing up for my first hackathon, but absolutely loved it, and came away with first place! Collaborating with others within a deadline using sprints and an agile methodology is incredibly rewarding.
 
 
-<a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img width="120px" height="120px"  src="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw/image"></a>
+
 
 
 <details>
