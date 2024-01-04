@@ -49,7 +49,9 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
-<!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 
 #### 🗃 Databases
@@ -102,6 +104,7 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 | 1 | <p><a href="https://github.com/DanMorriss/jazz-platform"><img src="https://github.com/DanMorriss/jazz-platform/blob/main/assets/images/marlborough-jazz-platform-mockup.png?raw=true"></a></p><p>Marlborough Jazz Platform</p> | <p>A website created for a fictional monthly Jazz Platform hosted by some of jazz history's greatest players. Created using HTML & CSS. | Merit |
 | 2 | <p><a href="https://github.com/DanMorriss/music-theory-quiz"><img src="https://github.com/DanMorriss/music-theory-quiz/blob/main/assets/images/responsive-mockup.png?raw=true"></a></p><p>Music Theory Quiz</p> | <p>A quiz app designed to test your music theory knowledge! Created with HTML, CSS & JavaScript. | Merit |
 | 3 | <p><a href="https://github.com/DanMorriss/lumos-online-banking"><img src="https://github.com/DanMorriss/lumos-online-banking/blob/main/assets/responsive_mockup.png?raw=true"></a></p><p>Lumos Online Banking</p> | <p>An Python based online banking app with user and admin features. The programme uses Google Sheets as an external database to store all the user information.</p> | Merit |
+| 4 | <p><a href="https://github.com/DanMorriss/nialls-barbershop"><img src="https://github.com/DanMorriss/nialls-barbershop/raw/main/media/mockup.png"></a></p><p>Niall's Barbershop</p> | <p>A Django full stack booking system for a local barbershop allowing both users and staff to create and manage bookings with full CRUD functionality.</p> | TBC |
 </details>
 
 - - -
@@ -121,7 +124,8 @@ I was nervous signing up for my first hackathon, but absolutely loved it, and ca
 
 | Date, Theme & Organiser   | Hackathon Project | Place |
 | :--------: | :-----------: | :--------------: |
-| <p>August 2023:</p><p><a href="https://hackathon.codeinstitute.net/teams/338/">Retro Quest</a></p><p>Organised by the Code Institute</p>| <p><a href="https://github.com/DanMorriss/Retro-Mashup-Mayhem"><img src="https://github.com/DanMorriss/Retro-Mashup-Mayhem/blob/main/docs/retro-mash.png?raw=true" width="800px"></a></p><p>Retro Mashup Mayhem - A JavaScrip game using the Kaboom.js framework inspired by retro arcade games. | <a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img src="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw/image"></a> |
+| <p>August 2023:</p><p><a href="https://hackathon.codeinstitute.net/teams/338/">Retro Quest</a></p><p>Organised by the Code Institute</p>| <p><a href="https://github.com/DanMorriss/Retro-Mashup-Mayhem"><img src="https://github.com/DanMorriss/Retro-Mashup-Mayhem/blob/main/docs/retro-mash.png?raw=true" width="800px"></a></p><p>Retro Mashup Mayhem - A JavaScrip game using the Kaboom.js framework inspired by retro arcade games. <br><a href="https://retro-mashup-mayhem.netlify.app/">Live Site</a> <br><a href="https://github.com/DarrachBarneveld/Retro-Mashup-Mayhem">Repo</a> | <a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img src="https://api.eu.badgr.io/public/assertions/lQDm7m4uQsybfWyu6Pzf7Q/image"></a> |
+| <p>November 2023:</p><a href="https://hackathon.codeinstitute.net/teams/369/">Movember</a><p>Organised by <a href="https://www.eventbrite.co.uk/e/soda-social-x-code-institute-london-hackathon-tickets-737049122767?aff=oddtdtcreator">Soda Social & The Code Institute</a></p> | <img src="https://github.com/DanMorriss/MenTool/raw/main/static/images/logo.gif"> MenTool - A mood tracking app built using Django <br><a href="https://mentool-2af96fd6f7e7.herokuapp.com/">Live Site</a> <br><a href="https://github.com/DanMorriss/MenTool">Repo</a> | <img src="https://api.eu.badgr.io/public/assertions/VXzmbaMTQ66qmAewDgoz2A/image"> <br>Scrum Master
 
 </details>
 
