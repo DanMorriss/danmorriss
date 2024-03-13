@@ -1,7 +1,7 @@
 ![Banner Image for Dan Morriss GitHub Profile](danmorrissbanner.png)
 
 # Dan Morriss
-## Full Stack Software Developer
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 ### About Me
 
