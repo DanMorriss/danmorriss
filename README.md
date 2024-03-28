@@ -3,7 +3,7 @@
 # Dan Morriss
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer)]()
 
-I recently completed a Level 5 Diploma in Full Stack Software Development with the Code Institute and am now working as a freelance Web Ddveloper.
+I recently completed a Level 5 Diploma in Full Stack Software Development with the Code Institute and am now working as a Freelance Web Developer.
 
 When I'm not coding, I can be found playing music 🎸, reading 📚, climbing 🧗, running 🏃‍♂️ with my dogs and spending time with my family 👨‍👩‍👦.
 
