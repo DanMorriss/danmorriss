@@ -1,13 +1,9 @@
 ![Banner Image for Dan Morriss GitHub Profile](danmorrissbanner.png)
 
 # Dan Morriss
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer)]()
 
-### About Me
-
-Hi there I'm Dan, a Junior Web Developer 👋🏻
-
-I am currently working on my Level 5 Diploma in Full Stack Software Development with the Code Institute.
+I recently completed a Level 5 Diploma in Full Stack Software Development with the Code Institute and am now working as a freelance Web Ddveloper.
 
 When I'm not coding, I can be found playing music 🎸, reading 📚, climbing 🧗, running 🏃‍♂️ with my dogs and spending time with my family 👨‍👩‍👦.
 
@@ -44,15 +40,9 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 #### 📚 Libraries & Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
 
 #### 🗃 Databases
 
@@ -77,17 +67,11 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 ![GitPod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
 **Personal Setup:** 
 
 ![Apple](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Safari](	https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
 
 - - - 
 
@@ -99,12 +83,13 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 <details>
 <summary>Click here to view a summary of my Milestone Projects</summary>
 
-| Milestone No.   | Project | Description | Grade | 
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://github.com/DanMorriss/jazz-platform"><img src="https://github.com/DanMorriss/jazz-platform/blob/main/assets/images/marlborough-jazz-platform-mockup.png?raw=true"></a></p><p>Marlborough Jazz Platform</p> | <p>A website created for a fictional monthly Jazz Platform hosted by some of jazz history's greatest players. Created using HTML & CSS. | Merit |
-| 2 | <p><a href="https://github.com/DanMorriss/music-theory-quiz"><img src="https://github.com/DanMorriss/music-theory-quiz/blob/main/assets/images/responsive-mockup.png?raw=true"></a></p><p>Music Theory Quiz</p> | <p>A quiz app designed to test your music theory knowledge! Created with HTML, CSS & JavaScript. | Merit |
-| 3 | <p><a href="https://github.com/DanMorriss/lumos-online-banking"><img src="https://github.com/DanMorriss/lumos-online-banking/blob/main/assets/responsive_mockup.png?raw=true"></a></p><p>Lumos Online Banking</p> | <p>An Python based online banking app with user and admin features. The programme uses Google Sheets as an external database to store all the user information.</p> | Merit |
-| 4 | <p><a href="https://github.com/DanMorriss/nialls-barbershop"><img src="https://github.com/DanMorriss/nialls-barbershop/raw/main/media/mockup.png"></a></p><p>Niall's Barbershop</p> | <p>A Django full stack booking system for a local barbershop allowing both users and staff to create and manage bookings with full CRUD functionality.</p> | TBC |
+| Milestone No.   | Project | Description |
+| :-----------: | :-----------: | :-----------: |
+| 1 | <p><a href="https://github.com/DanMorriss/jazz-platform"><img src="https://github.com/DanMorriss/jazz-platform/blob/main/assets/images/marlborough-jazz-platform-mockup.png?raw=true"></a></p><p>Marlborough Jazz Platform</p> | <p>A website created for a fictional monthly Jazz Platform hosted by some of jazz history's greatest players. Created using HTML & CSS. |
+| 2 | <p><a href="https://github.com/DanMorriss/music-theory-quiz"><img src="https://github.com/DanMorriss/music-theory-quiz/blob/main/assets/images/responsive-mockup.png?raw=true"></a></p><p>Music Theory Quiz</p> | <p>A quiz app designed to test your music theory knowledge! Created with HTML, CSS & JavaScript. |
+| 3 | <p><a href="https://github.com/DanMorriss/lumos-online-banking"><img src="https://github.com/DanMorriss/lumos-online-banking/blob/main/assets/responsive_mockup.png?raw=true"></a></p><p>Lumos Online Banking</p> | <p>An Python based online banking app with user and admin features. The programme uses Google Sheets as an external database to store all the user information.</p> |
+| 4 | <p><a href="https://github.com/DanMorriss/nialls-barbershop"><img src="https://github.com/DanMorriss/nialls-barbershop/raw/main/media/mockup.png"></a></p><p>Niall's Barbershop</p> | <p>A Django full stack booking system for a local barbershop allowing both users and staff to create and manage bookings with full CRUD functionality.</p> |
+| 5 | <p><a href="https://github.com/DanMorriss/highlights"><img src="https://github.com/DanMorriss/highlights/blob/main/docs/readme/mockup.jpg?raw=true"></a></p><p>Highlights</p> | <p>A socila media site based on the 5 minute journal where users can share posts, interact with other user via comments and likes as well as modidy their profile. Created using React & Django Rest Framework. |
 </details>
 
 - - -
@@ -113,10 +98,6 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 ### Hackathon Projects
 
 I was nervous signing up for my first hackathon, but absolutely loved it, and came away with first place! Collaborating with others within a deadline using sprints and an agile methodology is incredibly rewarding.
-
-
-
-
 
 <details>
 <summary>Click here to view a summary of my Hackathon Projects</summary>
