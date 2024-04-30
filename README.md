@@ -7,6 +7,8 @@ I recently completed a Level 5 Diploma in Full Stack Software Development with t
 
 When I'm not coding, I can be found playing music 🎸, reading 📚, climbing 🧗, running 🏃‍♂️ with my dogs and spending time with my family 👨‍👩‍👦.
 
+For some examples of my work, have a look at my [Portfolio Site](https://www.danmorriss.dev/)
+
 
 - - -
 
