@@ -1,26 +1,14 @@
 ![Banner Image for Dan Morriss GitHub Profile](danmorrissbanner.png)
 
 # Dan Morriss
-<<<<<<< HEAD
 
-## Full Stack Software Developer
-=======
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer)]()
->>>>>>> refs/remotes/origin/main
 
 I recently completed a Level 5 Diploma in Full Stack Software Development with the Code Institute and am now working as a Freelance Web Developer.
 
 When I'm not coding, I can be found playing music 🎸, reading 📚, climbing 🧗, running 🏃‍♂️ with my dogs and spending time with my family 👨‍👩‍👦.
 
-<<<<<<< HEAD
----
-=======
 For some examples of my work, have a look at my [Portfolio Site](https://www.danmorriss.dev/)
-
-
-- - -
-
->>>>>>> refs/remotes/origin/main
 
 ### Contact Me
 
@@ -55,15 +43,9 @@ For some examples of my work, have a look at my [Portfolio Site](https://www.dan
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-<<<<<<< HEAD
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
-=======
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
->>>>>>> refs/remotes/origin/main
 
 #### 🗃 Databases
 
@@ -82,50 +64,32 @@ For some examples of my work, have a look at my [Portfolio Site](https://www.dan
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<<<<<<< HEAD
----
-=======
-#### 💻 Version Control, IDE's & Other Coding Content 
+#### 💻 Version Control, IDE's & Other Coding Content
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitPod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-**Personal Setup:** 
+**Personal Setup:**
 
 ![Apple](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-- - - 
-
->>>>>>> refs/remotes/origin/main
-
 ### Milestone Projects for Code Institute Diploma
-
-<!-- **Overall Diploma Grade:** [Distinction](https://www.linkedin.com/in/keracudmore/overlay/education/769538001/multiple-media-viewer/?profileId=ACoAADfAcbgB85Z7ikekUTCZg3iLHHzQUCQYXng&treasuryMediaId=1635520854633) -->
 
 <details>
 <summary>Click here to view a summary of my Milestone Projects</summary>
 
-<<<<<<< HEAD
-| Milestone No. |                                                                                                            Project                                                                                                             |                                                                             Description                                                                             | Grade |
-| :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: |
-|       1       | <p><a href="https://github.com/DanMorriss/jazz-platform"><img src="https://github.com/DanMorriss/jazz-platform/blob/main/assets/images/marlborough-jazz-platform-mockup.png?raw=true"></a></p><p>Marlborough Jazz Platform</p> |               <p>A website created for a fictional monthly Jazz Platform hosted by some of jazz history's greatest players. Created using HTML & CSS.               | Merit |
-|       2       |        <p><a href="https://github.com/DanMorriss/music-theory-quiz"><img src="https://github.com/DanMorriss/music-theory-quiz/blob/main/assets/images/responsive-mockup.png?raw=true"></a></p><p>Music Theory Quiz</p>         |                                  <p>A quiz app designed to test your music theory knowledge! Created with HTML, CSS & JavaScript.                                   | Merit |
-|       3       |       <p><a href="https://github.com/DanMorriss/lumos-online-banking"><img src="https://github.com/DanMorriss/lumos-online-banking/blob/main/assets/responsive_mockup.png?raw=true"></a></p><p>Lumos Online Banking</p>        | <p>An Python based online banking app with user and admin features. The programme uses Google Sheets as an external database to store all the user information.</p> | Merit |
-|       4       |                      <p><a href="https://github.com/DanMorriss/nialls-barbershop"><img src="https://github.com/DanMorriss/nialls-barbershop/raw/main/media/mockup.png"></a></p><p>Niall's Barbershop</p>                       |     <p>A Django full stack booking system for a local barbershop allowing both users and staff to create and manage bookings with full CRUD functionality.</p>      |  TBC  |
+| Milestone No. |                                                                                                            Project                                                                                                             |                                                                                                   Description                                                                                                   |
+| :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|       1       | <p><a href="https://github.com/DanMorriss/jazz-platform"><img src="https://github.com/DanMorriss/jazz-platform/blob/main/assets/images/marlborough-jazz-platform-mockup.png?raw=true"></a></p><p>Marlborough Jazz Platform</p> |                                     <p>A website created for a fictional monthly Jazz Platform hosted by some of jazz history's greatest players. Created using HTML & CSS.                                     |
+|       2       |        <p><a href="https://github.com/DanMorriss/music-theory-quiz"><img src="https://github.com/DanMorriss/music-theory-quiz/blob/main/assets/images/responsive-mockup.png?raw=true"></a></p><p>Music Theory Quiz</p>         |                                                        <p>A quiz app designed to test your music theory knowledge! Created with HTML, CSS & JavaScript.                                                         |
+|       3       |       <p><a href="https://github.com/DanMorriss/lumos-online-banking"><img src="https://github.com/DanMorriss/lumos-online-banking/blob/main/assets/responsive_mockup.png?raw=true"></a></p><p>Lumos Online Banking</p>        |                       <p>An Python based online banking app with user and admin features. The programme uses Google Sheets as an external database to store all the user information.</p>                       |
+|       4       |                      <p><a href="https://github.com/DanMorriss/nialls-barbershop"><img src="https://github.com/DanMorriss/nialls-barbershop/raw/main/media/mockup.png"></a></p><p>Niall's Barbershop</p>                       |                           <p>A Django full stack booking system for a local barbershop allowing both users and staff to create and manage bookings with full CRUD functionality.</p>                            |
+|       5       |                         <p><a href="https://github.com/DanMorriss/highlights"><img src="https://github.com/DanMorriss/highlights/blob/main/docs/readme/mockup.jpg?raw=true"></a></p><p>Highlights</p>                          | <p>A socila media site based on the 5 minute journal where users can share posts, interact with other user via comments and likes as well as modidy their profile. Created using React & Django Rest Framework. |
 
-=======
-| Milestone No.   | Project | Description |
-| :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://github.com/DanMorriss/jazz-platform"><img src="https://github.com/DanMorriss/jazz-platform/blob/main/assets/images/marlborough-jazz-platform-mockup.png?raw=true"></a></p><p>Marlborough Jazz Platform</p> | <p>A website created for a fictional monthly Jazz Platform hosted by some of jazz history's greatest players. Created using HTML & CSS. |
-| 2 | <p><a href="https://github.com/DanMorriss/music-theory-quiz"><img src="https://github.com/DanMorriss/music-theory-quiz/blob/main/assets/images/responsive-mockup.png?raw=true"></a></p><p>Music Theory Quiz</p> | <p>A quiz app designed to test your music theory knowledge! Created with HTML, CSS & JavaScript. |
-| 3 | <p><a href="https://github.com/DanMorriss/lumos-online-banking"><img src="https://github.com/DanMorriss/lumos-online-banking/blob/main/assets/responsive_mockup.png?raw=true"></a></p><p>Lumos Online Banking</p> | <p>An Python based online banking app with user and admin features. The programme uses Google Sheets as an external database to store all the user information.</p> |
-| 4 | <p><a href="https://github.com/DanMorriss/nialls-barbershop"><img src="https://github.com/DanMorriss/nialls-barbershop/raw/main/media/mockup.png"></a></p><p>Niall's Barbershop</p> | <p>A Django full stack booking system for a local barbershop allowing both users and staff to create and manage bookings with full CRUD functionality.</p> |
-| 5 | <p><a href="https://github.com/DanMorriss/highlights"><img src="https://github.com/DanMorriss/highlights/blob/main/docs/readme/mockup.jpg?raw=true"></a></p><p>Highlights</p> | <p>A socila media site based on the 5 minute journal where users can share posts, interact with other user via comments and likes as well as modidy their profile. Created using React & Django Rest Framework. |
->>>>>>> refs/remotes/origin/main
 </details>
 
 ---
@@ -137,29 +101,10 @@ I was nervous signing up for my first hackathon, but absolutely loved it, and ca
 <details>
 <summary>Click here to view a summary of my Hackathon Projects</summary>
 
-<<<<<<< HEAD
 |                                                                                                                             Date, Theme & Organiser                                                                                                                              |                                                                                                                                                                                                                  Hackathon Project                                                                                                                                                                                                                   |                                                                               Place                                                                               |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                     <p>August 2023:</p><p><a href="https://hackathon.codeinstitute.net/teams/338/">Retro Quest</a></p><p>Organised by the Code Institute</p>                                                                     | <p><a href="https://github.com/DanMorriss/Retro-Mashup-Mayhem"><img src="https://github.com/DanMorriss/Retro-Mashup-Mayhem/blob/main/docs/retro-mash.png?raw=true" width="800px"></a></p><p>Retro Mashup Mayhem - A JavaScrip game using the Kaboom.js framework inspired by retro arcade games. <br><a href="https://retro-mashup-mayhem.netlify.app/">Live Site</a> <br><a href="https://github.com/DarrachBarneveld/Retro-Mashup-Mayhem">Repo</a> | <a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img src="https://api.eu.badgr.io/public/assertions/lQDm7m4uQsybfWyu6Pzf7Q/image"></a> |
 | <p>November 2023:</p><a href="https://hackathon.codeinstitute.net/teams/369/">Movember</a><p>Organised by <a href="https://www.eventbrite.co.uk/e/soda-social-x-code-institute-london-hackathon-tickets-737049122767?aff=oddtdtcreator">Soda Social & The Code Institute</a></p> |                                                                                       <img src="https://github.com/DanMorriss/MenTool/raw/main/static/images/logo.gif"> MenTool - A mood tracking app built using Django <br><a href="https://mentool-2af96fd6f7e7.herokuapp.com/">Live Site</a> <br><a href="https://github.com/DanMorriss/MenTool">Repo</a>                                                                                        |                                <img src="https://api.eu.badgr.io/public/assertions/VXzmbaMTQ66qmAewDgoz2A/image"> <br>Scrum Master                                |
-=======
-| Date, Theme & Organiser   | Hackathon Project | Place |
-| :--------: | :-----------: | :--------------: |
-| <p>August 2023:</p><p><a href="https://hackathon.codeinstitute.net/teams/338/">Retro Quest</a></p><p>Organised by the Code Institute</p>| <p><a href="https://github.com/DanMorriss/Retro-Mashup-Mayhem"><img src="https://github.com/DanMorriss/Retro-Mashup-Mayhem/blob/main/docs/retro-mash.png?raw=true" width="800px"></a></p><p>Retro Mashup Mayhem - A JavaScrip game using the Kaboom.js framework inspired by retro arcade games. <br><a href="https://retro-mashup-mayhem.netlify.app/">Live Site</a> <br><a href="https://github.com/DarrachBarneveld/Retro-Mashup-Mayhem">Repo</a> | <a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img src="https://api.eu.badgr.io/public/assertions/lQDm7m4uQsybfWyu6Pzf7Q/image"></a> |
-| <p>November 2023:</p><a href="https://hackathon.codeinstitute.net/teams/369/">Movember</a><p>Organised by <a href="https://www.eventbrite.co.uk/e/soda-social-x-code-institute-london-hackathon-tickets-737049122767?aff=oddtdtcreator">Soda Social & The Code Institute</a></p> | <img src="https://github.com/DanMorriss/MenTool/raw/main/static/images/logo.gif"> MenTool - A mood tracking app built using Django <br><a href="https://mentool-2af96fd6f7e7.herokuapp.com/">Live Site</a> <br><a href="https://github.com/DanMorriss/MenTool">Repo</a> | <img src="https://api.eu.badgr.io/public/assertions/VXzmbaMTQ66qmAewDgoz2A/image"> <br>Scrum Master | 
-| <p>April 2024:</p><p>Woman's Health Reimagined</p><p>Organised by the Code Institute & Soda Social</p>| <p><a href="https://github.com/DanMorriss/womenswellnesswariors"><img src="https://raw.githubusercontent.com/DanMorriss/womenswellnesswariors/main/assets/mockup.webp" width="800px"></a></p><p>dot. - A period tracking app. <br><a href="https://alcl2000.github.io/womenswellnesswarriors/">Live Site</a> <br><a href="https://github.com/DanMorriss/womenswellnesswariors">Repo</a> | <a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img src="https://api.eu.badgr.io/public/assertions/VXzmbaMTQ66qmAewDgoz2A/image"></a> |
->>>>>>> refs/remotes/origin/main
+|                                                                                      <p>April 2024:</p><p>Woman's Health Reimagined</p><p>Organised by the Code Institute & Soda Social</p>                                                                                      |                               <p><a href="https://github.com/DanMorriss/womenswellnesswariors"><img src="https://raw.githubusercontent.com/DanMorriss/womenswellnesswariors/main/assets/mockup.webp" width="800px"></a></p><p>dot. - A period tracking app. <br><a href="https://alcl2000.github.io/womenswellnesswarriors/">Live Site</a> <br><a href="https://github.com/DanMorriss/womenswellnesswariors">Repo</a>                                | <a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img src="https://api.eu.badgr.io/public/assertions/VXzmbaMTQ66qmAewDgoz2A/image"></a> |
 
 </details>
-
-<!-- - - - -->
-
-<!-- ### Stats
-
-![Dan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danmorriss) -->
-
-<!-- ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danmorriss&theme=default) -->
-
-<!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=danmorriss&theme=default) -->
-
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=danmorriss&margin-w=60&no-frame=true) -->
